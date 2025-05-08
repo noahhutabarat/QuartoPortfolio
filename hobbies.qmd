@@ -9,5 +9,5 @@ image: IMG_2080.jpeg
 ## Guitar
 - I have played guitar since I was in Kindergarten. I also write my own music.
 
-## Hking
+## Hiking
 - I love going hiking with my family and my two dogs.
