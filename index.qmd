@@ -1,5 +1,5 @@
 ---
-title: "noahhutabarat.github.io"
+title: "Noah Hutabarat"
 ---
 
 This is a Quarto website.
