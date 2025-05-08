@@ -26,5 +26,33 @@
     "title": "Noah Hutabarat",
     "section": "",
     "text": "C++\nPython\nJavaScript\nR"
+  },
+  {
+    "objectID": "hobbies.html",
+    "href": "hobbies.html",
+    "title": "Hobbies",
+    "section": "",
+    "text": "I have played basketball since I was a baby"
+  },
+  {
+    "objectID": "hobbies.html#basketball",
+    "href": "hobbies.html#basketball",
+    "title": "Hobbies",
+    "section": "",
+    "text": "I have played basketball since I was a baby"
+  },
+  {
+    "objectID": "hobbies.html#guitar",
+    "href": "hobbies.html#guitar",
+    "title": "Hobbies",
+    "section": "Guitar",
+    "text": "Guitar\n\nI have played guitar since I was in Kindergarten. I also write my own music."
+  },
+  {
+    "objectID": "hobbies.html#hking",
+    "href": "hobbies.html#hking",
+    "title": "Hobbies",
+    "section": "Hking",
+    "text": "Hking\n\nI love going hiking with my family and my two dogs."
   }
 ]
