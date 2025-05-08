@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Noah Hutabarat",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "Bachelor of Arts, Computer Science\n\nUniversity of Colorado, Denver\nGPA: 3.3\nRelevant Courses: Data Structure, Algorithms, Object Oriented Programming\n\n\n\n\n\n\nC++\nPython\nJavaScript\nR"
   },
   {
     "objectID": "about.html",
@@ -12,5 +12,19 @@
     "title": "About",
     "section": "",
     "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Noah Hutabarat",
+    "section": "",
+    "text": "Bachelor of Arts, Computer Science\n\nUniversity of Colorado, Denver\nGPA: 3.3\nRelevant Courses: Data Structure, Algorithms, Object Oriented Programming"
+  },
+  {
+    "objectID": "index.html#skills",
+    "href": "index.html#skills",
+    "title": "Noah Hutabarat",
+    "section": "",
+    "text": "C++\nPython\nJavaScript\nR"
   }
 ]

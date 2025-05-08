@@ -14,10 +14,16 @@ about:
       href: https://github.com/noahhutabarat
 ---
 
-This is a Quarto website.
+# Computer Science Student
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+## Education
+- **Bachelor of Arts, Computer Science**
+  - University of Colorado, Denver
+  - GPA: 3.3
+  - Relevant Courses: Data Structure, Algorithms, Object Oriented Programming
 
-```{r}
-1 + 1
-```
+## Skills
+- C++
+- Python
+- JavaScript
+- R
