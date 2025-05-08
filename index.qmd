@@ -1,10 +1,17 @@
 ---
 title: Noah Hutabarat
-image: IMG_4327.jpeg
+image: docs/IMG_4327.jpeg
 about:
   template: trestles
   image-width: 10em
   image-shape: rectangle
+  links:
+    - text: Email
+      icon: envelope
+      href: mailto:noahhutabarat@outlook.com
+    - text: GitHub
+      icon: github
+      href: https://github.com/noahhutabarat
 ---
 
 This is a Quarto website.
