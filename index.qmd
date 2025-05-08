@@ -1,6 +1,6 @@
 ---
 title: Noah Hutabarat
-image: docs/IMG_4327.jpeg
+image: IMG_4327.jpeg
 about:
   template: trestles
   image-width: 10em
